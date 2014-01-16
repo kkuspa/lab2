@@ -3,6 +3,7 @@
 	margin-top: 2em;
 }
 
+
 /* applies to any <p> descendants of an element of class "example-class-selector" */
 .example-class-selector p {
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
@@ -31,4 +32,12 @@ body {
      right: 0;
      position: absolute;
      z-index: -1;	
+}
+
+.project {
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+
 }
